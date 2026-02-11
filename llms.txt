@@ -16,6 +16,7 @@
 ## Writing
 
 - Why Theo is Wrong and we will get a Laravel for JS - https://wasp.sh/blog/2024/05/29/why-we-dont-have-laravel-for-javascript-yet
+- Finding the Inspiration to Build - https://dev.to/wasp/finding-the-inspiration-to-build-3p4n
 
 ## Music
 
